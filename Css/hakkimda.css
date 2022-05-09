@@ -1,0 +1,14 @@
+.responsive {
+    width: 28%;
+    max-width: 500px;
+    height: 100%;
+    background-position: center;
+    margin: 1.5rem 0;
+}
+
+.img {
+    float: left;
+    width: 100px;
+    height: 100px;
+    background-size: cover;
+}
